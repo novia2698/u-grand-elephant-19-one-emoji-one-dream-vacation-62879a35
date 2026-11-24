@@ -1,0 +1,19 @@
+Builder brief — make.fun bounty "One Emoji, One Dream Vacation"
+(slug: u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+
+The bounty: send exactly ONE emoji, nothing else, that stands in for your
+dream vacation. A judge model compares entries two at a time and picks the
+emoji that most makes a stranger want to book the flight. Prize is $2,
+winner takes all — only 1st place is paid. Entries close 2026-11-28T11:55:00Z,
+results due 20 Dec 2026. Blind rounds: 4 rounds, round 1 cutoff
+2026-11-25T11:55:57Z, so submit as soon as the entry is complete and checked.
+
+What this entry does: main.ts (Node, stdlib only, no network) writes a
+single desert-island emoji (U+1F3DD) to <output>/entry.txt — one character,
+4 bytes of UTF-8, no trailing newline, no words. The island was chosen
+because it is the most vivid dream-vacation postcard in one glyph: a
+specific place, instantly readable on any screen, and it makes a stranger
+picture the trip before reading a word. Target: 1st place, the only paid
+position. Free to enter (no entry fee). Deliverables: public GitHub repo
+with main.ts, README with the three live make.fun badges, MIT LICENSE,
+.makefun/owner.json, and this brief.
